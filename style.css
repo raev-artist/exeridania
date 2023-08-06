@@ -45,7 +45,7 @@ a {
 footer {
     position: fixed;
     bottom: 35px;
-    right: 70px;
+    right: 10vw;
     background-color: #09607a;
     padding: 5px;
 }

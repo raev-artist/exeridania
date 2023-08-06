@@ -36,11 +36,10 @@ a {
 
 footer {
     position: fixed;
-    bottom: 0;
+    bottom: 10px;
     right: 10px;
-    background-color: #f2f2f2;
+    background-color: #09607a;
     padding: 5px;
-    border: 1px solid #ddd;
 }
 
 /* Regola per posizionare a un terzo della pagina verticalmente */

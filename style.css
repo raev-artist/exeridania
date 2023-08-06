@@ -14,6 +14,14 @@ body {
   height: 100vh; /* Altezza del contenitore per centrare il contenuto */
 }
 
+.temporary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Altezza del contenitore per centrare il contenuto */
+}
+
 h2 {
   margin-top: 50px;
   padding: 10px;

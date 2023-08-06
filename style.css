@@ -34,6 +34,15 @@ a {
   text-decoration: none; /* Rimuovi la sottolineatura del link */
 }
 
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 10px;
+    background-color: #f2f2f2;
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+
 /* Regola per posizionare a un terzo della pagina verticalmente */
 .container {
   justify-content: flex-start; /* Allinea in alto */

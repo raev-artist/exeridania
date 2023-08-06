@@ -29,7 +29,7 @@ p {
   font-weight: bold;
 }
 
-.temporary {
+p.temporary {
   margin-top: 50px;
   padding: 10px;
   text-align: center;

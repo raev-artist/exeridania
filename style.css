@@ -60,8 +60,9 @@ footer {
 
 small {
   font-size: 14px;
+  font-weight: bold;
 }
 
 .container {
-  justify-content: flex-start; /* Allinea in alto */
+  justify-content: flex-start;
 }
